@@ -1,0 +1,12 @@
+Mobile app: crashes and upload problems  
+
+If the app crashes when you upload a photo, check these steps in order:
+
+
+1.  Update the app to version 5.2.1 or later. Version 5.2.0 had a known crash on photo upload on iOS 18.
+2. Allow access to Photos: Settings → Privacy → Photos → Planerka → Full Access.
+3.	Files larger than 25 MB cannot be uploaded from the mobile app. Use the web version for large files.
+4. Clear the app cache: Profile → Settings → Storage → Clear cache. Your tasks and files are not deleted.
+
+Reinstalling the app does not fix the 5.2.0 crash, because the App Store may install the same version again.   
+If the problem persists, send the crash report from Profile → Help → Send logs.
